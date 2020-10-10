@@ -63,6 +63,7 @@ open class JYKAlert: UIView {
         self.bottomAnchor.constraint(equalTo: superview.bottomAnchor).isActive = true
 
         self.addSubview(contentView)
+        
         contentView.centerXAnchor.constraint(equalTo: self.centerXAnchor).isActive = true
         contentView.centerYAnchor.constraint(equalTo: self.centerYAnchor).isActive = true
         contentView.heightAnchor.constraint(equalToConstant: 150.0).isActive = true
