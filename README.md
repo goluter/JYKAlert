@@ -4,6 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/JYKAlert.svg?style=flat)](https://cocoapods.org/pods/JYKAlert)
 [![License](https://img.shields.io/cocoapods/l/JYKAlert.svg?style=flat)](https://cocoapods.org/pods/JYKAlert)
 [![Platform](https://img.shields.io/cocoapods/p/JYKAlert.svg?style=flat)](https://cocoapods.org/pods/JYKAlert)
+[![SwiftPM](https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat)](https://swift.org/package-manager/)
 
 ## Example
 
