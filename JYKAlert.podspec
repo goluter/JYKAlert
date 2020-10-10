@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'JYKAlert'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of JYKAlert.'
+  s.summary          = 'A short description of JYKAlert.!!!!!!!!!!!'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,17 +21,17 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/titaniper/JYKAlert'
+  s.homepage         = 'https://github.com/goluter/JYKAlert'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'titaniper' => '201511080@sangmyung.kr' }
-  s.source           = { :git => 'https://github.com/titaniper/JYKAlert.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/goluter/JYKAlert.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'JYKAlert/Classes/**/*'
-  
+  s.swift_versions = '5.0'
   # s.resource_bundles = {
   #   'JYKAlert' => ['JYKAlert/Assets/*.png']
   # }
